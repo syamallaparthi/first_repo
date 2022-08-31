@@ -33,5 +33,10 @@ For Git Repo refer here: https://github.com/syamallaparthi/FirstRepo.git
 - Updated the readme for the checking purpose
 - can't able to update the changes in the readme
 
-
+### Newly added lines to readme
+```
+a = 100
+b = 200
+print(a/b)
+```
 
